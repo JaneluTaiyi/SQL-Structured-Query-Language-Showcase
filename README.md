@@ -11,5 +11,5 @@ The example project database: northwind.db
 - 
 
 Software used:
--DB Browser for SQLite
--DBeaver-ce-26.0.0
+- DB Browser for SQLite
+- DBeaver-ce-26.0.0
