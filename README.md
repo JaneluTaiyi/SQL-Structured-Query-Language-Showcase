@@ -8,8 +8,8 @@ The purpose of me using SQL:
 The repository structure of example database: northwind.db
 - file 1 Schema and diagram of the database
 - 2 queries
-- 3
-- 4 data
+- 3 data: northwind
+
 
 Software used:
 - DB Browser for SQLite
