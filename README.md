@@ -1,4 +1,4 @@
-# SQL-Structured-Query-Language
+# SQL-Structured-Query
 This repository showcases practical skills in using SQL to improve the efficiency of data analysis.
 
 The purpose of me using SQL:
